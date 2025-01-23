@@ -1,6 +1,6 @@
 # 📝 ToDoList Avançado
 
-Um aplicativo moderno e funcional para gerenciamento de tarefas, desenvolvido com **HTML**, **CSS** e **JavaScript**. Organize suas tarefas, filtre por status, pesquise com facilidade e mantenha tudo salvo com o uso do **local storage**. 🌟
+Um aplicativo moderno e funcional para gerenciamento de tarefas, desenvolvido com **HTML**, **CSS** e **JavaScript**. Organize suas tarefas, filtre por status, pesquise com facilidade e mantenha tudo salvo com o uso do **local storage**.
 
 ## ✨ Funcionalidades
 
